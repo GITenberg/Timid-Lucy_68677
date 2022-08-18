@@ -1,0 +1,30 @@
+_repo: Timid-Lucy_68677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, Sarah S. (Sarah Schoonmaker)
+    aliases:
+    - Baker, Mrs. Woods
+    - Aunt Friendly
+    - Baker, Sarah Schoonmaker Tuthill
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '31338'
+    url: http://www.gutenberg.org/2009/agents/31338
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68677'
+language: en
+pgterms:marc905: 20220719135756baker
+pgterms:marc906: '1862'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :John Morgan,1862.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Timid Lucy
+url: http://www.gutenberg.org/ebooks/68677
